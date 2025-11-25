@@ -1,4 +1,3 @@
-<img width="1496" height="1321" alt="изображение" src="https://github.com/user-attachments/assets/085b3208-26b8-4f47-b272-782421f3f8cd" />
 
 # Tower Defense Game
 
